@@ -62,6 +62,8 @@ Small LoginSystem
 ----
 A small login system in NodeJS with mysql and with permissions. Users can register and login and an hidden Admin Page.
 [More](https://github.com/DutchProgrammer/NodeJS-experiments/tree/master/SmallLoginSystem)
+
+[Small LoginSystem Demo](http://dutchprogrammer.nl:9003/)
 >
 > [github NodeJS experiments](http://dutchprogrammer.github.io/NodeJS-experiments)
 
