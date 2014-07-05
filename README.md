@@ -30,6 +30,15 @@ With this NodeJS module you can stack functions so they will execute after each 
 
 > [github NodeJS queue manager](http://dutchprogrammer.github.io/NodeJS-queue)
 
+#### 
+
+#### NodeJS download
+> A small NodeJS module to download remote files to local, works with triggers
+
+> [github NodeJS download](http://dutchprogrammer.github.io/NodeJS-download/)
+
+#### 
+
 #### NodeJS cluster
 > Clustering with proxy so you can set multiple domain names on port 80
 > 
