@@ -1,4 +1,4 @@
-Dutch Programmer
+Danny van der Knaap
 =========
 
 Im an programmer from holland, that took his first steps in programming in 2001 as an PHP developer.
@@ -14,6 +14,9 @@ Some skills
   - Javascript (old school), jQUERY
   - NodeJS
   - Twitter and Facebook API
+  - Symfony 1, 2, 3 and 4
+  - Laravel
+  - AngularJS
   
   
 Scripts
